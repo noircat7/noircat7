@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 209 hrs 13 mins
-🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
 🎮 Slay the Spire 2                 🕘 5 hrs 17 mins
+🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
 🎮 Stellar Blade™                   🕘 47 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
