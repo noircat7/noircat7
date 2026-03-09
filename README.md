@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🍳 PUBG: BATTLEGROUNDS              🕘 210 hrs 37 mins
 🎮 Slay the Spire 2                 🕘 7 hrs 55 mins
 🎮 Stellar Blade™                   🕘 47 hrs 13 mins
-🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
+🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
