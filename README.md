@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 210 hrs 37 mins
-🎮 Slay the Spire 2                 🕘 7 hrs 55 mins
-🎮 Stellar Blade™                   🕘 47 hrs 13 mins
+🎮 Slay the Spire 2                 🕘 8 hrs 55 mins
 🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
+🎮 Stellar Blade™                   🕘 47 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
