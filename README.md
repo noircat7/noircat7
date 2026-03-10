@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
+🎮 Slay the Spire 2                 🕘 11 hrs 56 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 210 hrs 37 mins
-🎮 Slay the Spire 2                 🕘 10 hrs 25 mins
 🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
 💻 Wallpaper Engine                 🕘 63 hrs 53 mins
 ```
