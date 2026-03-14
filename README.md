@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 🎮 Slay the Spire 2                 🕘 17 hrs 14 mins
+🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 211 hrs 10 mins
 🎮 Resident Evil 3                  🕘 4 hrs 39 mins
 🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
