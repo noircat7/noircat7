@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 Slay the Spire 2                 🕘 17 hrs 14 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 210 hrs 37 mins
 🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
-💻 Wallpaper Engine                 🕘 63 hrs 53 mins
+🎮 Resident Evil 3                  🕘 0 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
