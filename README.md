@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 🎮 Slay the Spire 2                 🕘 17 hrs 14 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 210 hrs 37 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 211 hrs 10 mins
 🎮 Resident Evil 3                  🕘 4 hrs 39 mins
 🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
 ```
