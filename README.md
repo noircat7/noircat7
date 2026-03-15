@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 212 hrs 8 mins
 🎮 Resident Evil 3                  🕘 7 hrs 0 mins
-🎮 Resident Evil Village            🕘 2 hrs 10 mins
+🎮 Resident Evil Village            🕘 3 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
