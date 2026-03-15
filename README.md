@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 Slay the Spire 2                 🕘 17 hrs 14 mins
 🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 212 hrs 8 mins
-🎮 Resident Evil 3                  🕘 6 hrs 9 mins
+🎮 Resident Evil 3                  🕘 7 hrs 0 mins
 🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
