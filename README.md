@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Slay the Spire 2                 🕘 17 hrs 14 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 218 hrs 6 mins
-🎮 Resident Evil Village            🕘 8 hrs 11 mins
+🎮 Resident Evil Village            🕘 9 hrs 11 mins
 🎮 Resident Evil 3                  🕘 7 hrs 0 mins
 🎮 Kingdom Come: Deliverance II     🕘 118 hrs 7 mins
 ```
