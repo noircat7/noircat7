@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🍳 PUBG: BATTLEGROUNDS              🕘 219 hrs 47 mins
 🎮 Slay the Spire 2                 🕘 17 hrs 56 mins
 🎮 Resident Evil 3                  🕘 7 hrs 0 mins
-🎮 ELDEN RING NIGHTREIGN            🕘 196 hrs 52 mins
+🎮 太吾绘卷 The Scroll Of Taiwu     🕘 0 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
