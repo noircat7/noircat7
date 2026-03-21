@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ```text
 🎮 Slay the Spire 2                 🕘 17 hrs 14 mins
 🎮 Resident Evil Village            🕘 10 hrs 46 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 218 hrs 6 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 218 hrs 31 mins
 🎮 Resident Evil 3                  🕘 7 hrs 0 mins
-🎮 Resident Evil Requiem            🕘 1 hrs 17 mins
+🎮 ELDEN RING NIGHTREIGN            🕘 196 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
