@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ```text
 🎮 Resident Evil Village            🕘 12 hrs 57 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 222 hrs 17 mins
-🎮 Slay the Spire 2                 🕘 17 hrs 56 mins
 🎮 Resident Evil 3                  🕘 7 hrs 0 mins
+🎮 Slay the Spire 2                 🕘 17 hrs 56 mins
 🎮 太吾绘卷 The Scroll Of Taiwu     🕘 0 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
