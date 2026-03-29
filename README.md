@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 Resident Evil Village            🕘 12 hrs 57 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 223 hrs 38 mins
 🎮 Crimson Desert                   🕘 2 hrs 48 mins
-🎮 Resident Evil 3                  🕘 7 hrs 0 mins
 🎮 太吾绘卷 The Scroll Of Taiwu     🕘 0 hrs 59 mins
+🎮 Slay the Spire 2                 🕘 17 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
