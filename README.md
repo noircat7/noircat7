@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🍳 PUBG: BATTLEGROUNDS              🕘 224 hrs 8 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 224 hrs 32 mins
 🎮 Resident Evil Village            🕘 12 hrs 57 mins
 🎮 Crimson Desert                   🕘 2 hrs 48 mins
 🎮 太吾绘卷 The Scroll Of Taiwu     🕘 0 hrs 59 mins
