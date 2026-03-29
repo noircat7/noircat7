@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 224 hrs 32 mins
 🎮 Resident Evil Village            🕘 12 hrs 57 mins
-🎮 Crimson Desert                   🕘 5 hrs 3 mins
+🎮 Crimson Desert                   🕘 5 hrs 30 mins
 🎮 太吾绘卷 The Scroll Of Taiwu     🕘 0 hrs 59 mins
 🎮 Slay the Spire 2                 🕘 17 hrs 56 mins
 ```
