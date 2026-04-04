@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 🎮 Crimson Desert                   🕘 7 hrs 21 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 224 hrs 32 mins
 🎮 Resident Evil Village            🕘 12 hrs 57 mins
-🎮 太吾绘卷 The Scroll Of Taiwu     🕘 0 hrs 59 mins
 💻 Wallpaper Engine                 🕘 64 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
