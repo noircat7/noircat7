@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 Crimson Desert                   🕘 7 hrs 21 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 224 hrs 32 mins
 🎮 Resident Evil Village            🕘 12 hrs 57 mins
-🎮 Slay the Spire 2                 🕘 17 hrs 56 mins
 🎮 太吾绘卷 The Scroll Of Taiwu     🕘 0 hrs 59 mins
+🎮 Slay the Spire 2                 🕘 17 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
