@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Crimson Desert                   🕘 7 hrs 21 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 224 hrs 32 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 224 hrs 54 mins
 🎮 Resident Evil Village            🕘 12 hrs 57 mins
-💻 Wallpaper Engine                 🕘 64 hrs 7 mins
+💻 Wallpaper Engine                 🕘 64 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
