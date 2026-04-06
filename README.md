@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Crimson Desert                   🕘 7 hrs 21 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 226 hrs 56 mins
-🎮 Resident Evil Village            🕘 14 hrs 36 mins
+🎮 Resident Evil Village            🕘 15 hrs 6 mins
 💻 Wallpaper Engine                 🕘 64 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
