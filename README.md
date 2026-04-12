@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 🎮 Kingdom Come: Deliverance II     🕘 125 hrs 24 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 231 hrs 5 mins
 🎮 Resident Evil Village            🕘 18 hrs 26 mins
-🎮 Crimson Desert                   🕘 7 hrs 21 mins
 💻 Wallpaper Engine                 🕘 64 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
