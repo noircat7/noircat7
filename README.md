@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 231 hrs 5 mins
+🎮 Kingdom Come: Deliverance II     🕘 124 hrs 37 mins
 🎮 Resident Evil Village            🕘 18 hrs 26 mins
-🎮 Kingdom Come: Deliverance II     🕘 123 hrs 7 mins
 🎮 Crimson Desert                   🕘 7 hrs 21 mins
 💻 Wallpaper Engine                 🕘 64 hrs 14 mins
 ```
