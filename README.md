@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🍳 PUBG: BATTLEGROUNDS              🕘 231 hrs 18 mins
 🎮 Resident Evil Village            🕘 18 hrs 26 mins
 🎮 Slay the Spire 2                 🕘 18 hrs 43 mins
-💻 Wallpaper Engine                 🕘 64 hrs 14 mins
+💻 Wallpaper Engine                 🕘 64 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
