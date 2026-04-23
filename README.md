@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 Kingdom Come: Deliverance II     🕘 144 hrs 42 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 231 hrs 18 mins
 🎮 Slay the Spire 2                 🕘 18 hrs 43 mins
-💻 Wallpaper Engine                 🕘 64 hrs 17 mins
+💻 Wallpaper Engine                 🕘 64 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
