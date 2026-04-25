@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 144 hrs 42 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 231 hrs 18 mins
+🎮 Red Dead Redemption 2            🕘 60 hrs 41 mins
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 33 hrs 21 mins
-🎮 Red Dead Redemption 2            🕘 60 hrs 26 mins
 🎮 Clair Obscur: Expedition 33      🕘 49 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
