@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🍳 PUBG: BATTLEGROUNDS              🕘 231 hrs 18 mins
 🎮 Clair Obscur: Expedition 33      🕘 49 hrs 42 mins
 🎮 Slay the Spire 2                 🕘 18 hrs 43 mins
-💻 Wallpaper Engine                 🕘 64 hrs 21 mins
+🎮 Red Dead Redemption 2            🕘 60 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
