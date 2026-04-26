@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Kingdom Come: Deliverance II     🕘 147 hrs 0 mins
+🎮 Kingdom Come: Deliverance II     🕘 147 hrs 31 mins
 🎮 Red Dead Redemption 2            🕘 60 hrs 41 mins
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 33 hrs 21 mins
 🎮 Clair Obscur: Expedition 33      🕘 49 hrs 42 mins
