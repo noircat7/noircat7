@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 Kingdom Come: Deliverance II     🕘 148 hrs 6 mins
 🎮 Red Dead Redemption 2            🕘 60 hrs 41 mins
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 33 hrs 21 mins
+🎮 Resident Evil Requiem            🕘 2 hrs 19 mins
 🎮 Clair Obscur: Expedition 33      🕘 49 hrs 42 mins
-🎮 Slay the Spire 2                 🕘 18 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
