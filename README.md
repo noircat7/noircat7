@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Resident Evil Requiem            🕘 24 hrs 6 mins
 🎮 Kingdom Come: Deliverance II     🕘 148 hrs 6 mins
-🎮 Magical Princess                 🕘 2 hrs 0 mins
+🎮 Magical Princess                 🕘 2 hrs 45 mins
 🎮 Red Dead Redemption 2            🕘 60 hrs 41 mins
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 33 hrs 21 mins
 ```
