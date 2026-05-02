@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Resident Evil Requiem            🕘 39 hrs 32 mins
+🎮 Resident Evil Requiem            🕘 40 hrs 7 mins
 🎮 Kingdom Come: Deliverance II     🕘 148 hrs 6 mins
 🎮 Magical Princess                 🕘 2 hrs 45 mins
-🎮 Red Dead Redemption 2            🕘 60 hrs 41 mins
+🎮 Red Dead Redemption 2            🕘 60 hrs 42 mins
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 33 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
