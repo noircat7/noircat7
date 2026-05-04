@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Resident Evil Requiem            🕘 40 hrs 7 mins
-🎮 Red Dead Redemption 2            🕘 75 hrs 34 mins
+🎮 Red Dead Redemption 2            🕘 76 hrs 4 mins
 🎮 Kingdom Come: Deliverance II     🕘 148 hrs 6 mins
 🎮 Magical Princess                 🕘 2 hrs 45 mins
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 33 hrs 21 mins
