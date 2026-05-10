@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Resident Evil Requiem            🕘 40 hrs 7 mins
-🎮 Red Dead Redemption 2            🕘 94 hrs 54 mins
+🎮 Red Dead Redemption 2            🕘 95 hrs 54 mins
 🎮 Magical Princess                 🕘 2 hrs 45 mins
 💻 Wallpaper Engine                 🕘 64 hrs 57 mins
 ```
