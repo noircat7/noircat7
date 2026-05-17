@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Red Dead Redemption 2            🕘 99 hrs 59 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 34 mins
+🎮 Starfield                        🕘 51 hrs 19 mins
 💻 Wallpaper Engine                 🕘 64 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
