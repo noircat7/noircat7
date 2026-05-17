@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Red Dead Redemption 2            🕘 96 hrs 37 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 897 hrs 50 mins
 💻 Wallpaper Engine                 🕘 64 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
