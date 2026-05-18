@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 34 mins
 🎮 Starfield                        🕘 51 hrs 19 mins
 💻 Wallpaper Engine                 🕘 64 hrs 59 mins
+🎮 Lies of P                        🕘 14 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
