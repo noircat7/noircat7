@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ```text
 🎮 Red Dead Redemption 2            🕘 99 hrs 59 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 42 mins
+🎮 The Witcher 3: Wild Hunt         🕘 65 hrs 33 mins
 🎮 Starfield                        🕘 51 hrs 19 mins
 🎮 Hollow Knight: Silksong          🕘 6 hrs 14 mins
-🎮 Lies of P                        🕘 14 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
