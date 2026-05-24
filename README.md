@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Red Dead Redemption 2            🕘 99 hrs 59 mins
-🎮 The Witcher 3: Wild Hunt         🕘 70 hrs 1 mins
+🎮 The Witcher 3: Wild Hunt         🕘 70 hrs 15 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 47 mins
 🎮 Starfield                        🕘 51 hrs 19 mins
 🎮 Hollow Knight: Silksong          🕘 6 hrs 14 mins
