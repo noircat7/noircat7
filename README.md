@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 The Witcher 3: Wild Hunt         🕘 76 hrs 17 mins
 🎮 Red Dead Redemption 2            🕘 99 hrs 59 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 47 mins
+💻 Wallpaper Engine                 🕘 65 hrs 46 mins
 🎮 Starfield                        🕘 51 hrs 19 mins
-🎮 Hollow Knight: Silksong          🕘 6 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
