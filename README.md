@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 The Witcher 3: Wild Hunt         🕘 76 hrs 17 mins
-🎮 Red Dead Redemption 2            🕘 99 hrs 59 mins
+🎮 007 First Light                  🕘 1 hrs 28 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 232 hrs 22 mins
 💻 Wallpaper Engine                 🕘 66 hrs 0 mins
-🎮 007 First Light                  🕘 0 hrs 58 mins
+🎮 Starfield                        🕘 51 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
