@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 The Witcher 3: Wild Hunt         🕘 76 hrs 17 mins
 🎮 007 First Light                  🕘 6 hrs 23 mins
-💻 Wallpaper Engine                 🕘 66 hrs 7 mins
+💻 Wallpaper Engine                 🕘 66 hrs 10 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 232 hrs 22 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 47 mins
 ```
