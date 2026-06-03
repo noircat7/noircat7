@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 The Witcher 3: Wild Hunt         🕘 76 hrs 17 mins
-🎮 007 First Light                  🕘 8 hrs 29 mins
+🎮 007 First Light                  🕘 9 hrs 59 mins
 💻 Wallpaper Engine                 🕘 66 hrs 10 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 232 hrs 22 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 47 mins
