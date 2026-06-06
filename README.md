@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 The Witcher 3: Wild Hunt         🕘 76 hrs 17 mins
 💻 Wallpaper Engine                 🕘 66 hrs 10 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 232 hrs 22 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 898 hrs 47 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 899 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
