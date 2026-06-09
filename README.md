@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 007 First Light                  🕘 16 hrs 2 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 900 hrs 45 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 232 hrs 22 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 899 hrs 37 mins
 💻 Wallpaper Engine                 🕘 66 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
