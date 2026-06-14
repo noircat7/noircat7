@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 007 First Light                  🕘 16 hrs 2 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 903 hrs 40 mins
-🎮 Resident Evil 4                  🕘 1 hrs 3 mins
+🎮 Resident Evil 4                  🕘 2 hrs 44 mins
 💻 Wallpaper Engine                 🕘 66 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
