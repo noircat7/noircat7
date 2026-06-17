@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 007 First Light                  🕘 16 hrs 2 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 903 hrs 40 mins
+🎮 007 First Light                  🕘 16 hrs 2 mins
 🎮 Resident Evil 4                  🕘 2 hrs 44 mins
 💻 Wallpaper Engine                 🕘 66 hrs 10 mins
 ```
