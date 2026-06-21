@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 🎮 Resident Evil 4                  🕘 2 hrs 44 mins
 🎮 太吾绘卷：天幕心帷               🕘 3 hrs 40 mins
 🎮 007 First Light                  🕘 16 hrs 2 mins
+💻 Wallpaper Engine                 🕘 66 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
