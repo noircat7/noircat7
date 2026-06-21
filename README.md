@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 905 hrs 17 mins
-🎮 Resident Evil 4                  🕘 4 hrs 14 mins
+🎮 Resident Evil 4                  🕘 4 hrs 33 mins
 🎮 太吾绘卷：天幕心帷               🕘 3 hrs 40 mins
 💻 Wallpaper Engine                 🕘 66 hrs 22 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 232 hrs 32 mins
