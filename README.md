@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 The Scroll of Taiwu : Beyond The Dome 🕘 3 hrs 40 mins
 🎮 Resident Evil 4                  🕘 4 hrs 33 mins
+🎮 The Scroll of Taiwu : Beyond The Dome 🕘 3 hrs 40 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 905 hrs 17 mins
 💻 Wallpaper Engine                 🕘 66 hrs 29 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 232 hrs 32 mins
