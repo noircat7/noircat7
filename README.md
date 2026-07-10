@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Resident Evil 4                  🕘 9 hrs 50 mins
-🎮 Apex Legends                     🕘 626 hrs 11 mins
+🎮 Apex Legends                     🕘 627 hrs 6 mins
 💻 Wallpaper Engine                 🕘 66 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
