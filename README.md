@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Resident Evil 4                  🕘 9 hrs 50 mins
 🎮 Apex Legends                     🕘 627 hrs 6 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 906 hrs 30 mins
 💻 Wallpaper Engine                 🕘 66 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
