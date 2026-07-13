@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-
+🎮 Resident Evil 4                  🕘 20 hrs 17 mins
+🎮 Apex Legends                     🕘 627 hrs 6 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 906 hrs 30 mins
+💻 Wallpaper Engine                 🕘 66 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
