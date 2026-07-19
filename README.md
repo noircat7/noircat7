@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 Apex Legends                     🕘 627 hrs 6 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 906 hrs 30 mins
 🎮 Resident Evil Requiem            🕘 41 hrs 7 mins
-💻 Wallpaper Engine                 🕘 66 hrs 30 mins
+💻 Wallpaper Engine                 🕘 66 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
