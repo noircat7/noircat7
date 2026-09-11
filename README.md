@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Black Myth: Wukong               🕘 106 hrs 16 mins
 🎮 Onimusha: Way of the Sword       🕘 15 hrs 34 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 928 hrs 47 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 931 hrs 48 mins
 🎮 Mafia: Definitive Edition        🕘 7 hrs 57 mins
 🎮 ASTLIBRA ～生きた証～ Revision   🕘 58 hrs 53 mins
 ```
