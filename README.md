@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Onimusha: Way of the Sword       🕘 20 hrs 40 mins
+🎮 Onimusha: Way of the Sword       🕘 21 hrs 42 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 933 hrs 27 mins
-🎮 Black Myth: Wukong               🕘 106 hrs 16 mins
 🎮 Mafia: Definitive Edition        🕘 7 hrs 57 mins
+🎮 Black Myth: Wukong               🕘 106 hrs 16 mins
 🎮 ASTLIBRA ～生きた証～ Revision   🕘 58 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
