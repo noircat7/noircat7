@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Onimusha: Way of the Sword       🕘 27 hrs 26 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 933 hrs 27 mins
+🎮 Onimusha: Way of the Sword       🕘 28 hrs 34 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 934 hrs 37 mins
 🎮 Mafia: Definitive Edition        🕘 7 hrs 57 mins
-🎮 ASTLIBRA ～生きた証～ Revision   🕘 58 hrs 53 mins
 💻 Wallpaper Engine                 🕘 67 hrs 12 mins
+🎮 Onimusha: Way of the Sword DEMO  🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
