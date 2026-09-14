@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Onimusha: Way of the Sword       🕘 28 hrs 34 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 934 hrs 37 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 935 hrs 31 mins
 🎮 Mafia: Definitive Edition        🕘 7 hrs 57 mins
 💻 Wallpaper Engine                 🕘 67 hrs 12 mins
 🎮 Onimusha: Way of the Sword DEMO  🕘 0 hrs 4 mins
