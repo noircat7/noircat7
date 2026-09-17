@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 Onimusha: Way of the Sword       🕘 31 hrs 29 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 935 hrs 59 mins
 🎮 Outlast                          🕘 9 hrs 52 mins
-🎮 Mafia: Definitive Edition        🕘 7 hrs 57 mins
 🎮 Risk of Rain 2                   🕘 0 hrs 18 mins
+🎮 OCTOPATH TRAVELER                🕘 0 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
