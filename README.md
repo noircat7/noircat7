@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Onimusha: Way of the Sword       🕘 31 hrs 29 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 935 hrs 59 mins
-🎮 Mafia: Definitive Edition        🕘 10 hrs 56 mins
+🎮 Mafia: Definitive Edition        🕘 12 hrs 39 mins
 🎮 Outlast                          🕘 9 hrs 52 mins
 🎮 Risk of Rain 2                   🕘 0 hrs 18 mins
 ```
