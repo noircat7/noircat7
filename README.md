@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Onimusha: Way of the Sword       🕘 31 hrs 29 mins
+🎮 Baldur's Gate 3                  🕘 396 hrs 20 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 935 hrs 59 mins
 🎮 Mafia: Definitive Edition        🕘 12 hrs 39 mins
-🎮 Baldur's Gate 3                  🕘 391 hrs 50 mins
 🎮 Outlast                          🕘 9 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
