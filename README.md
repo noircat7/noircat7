@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Baldur's Gate 3                  🕘 403 hrs 17 mins
+🎮 Baldur's Gate 3                  🕘 403 hrs 51 mins
 🎮 Onimusha: Way of the Sword       🕘 31 hrs 29 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 935 hrs 59 mins
 🎮 Mafia: Definitive Edition        🕘 12 hrs 39 mins
