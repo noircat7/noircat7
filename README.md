@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Baldur's Gate 3                  🕘 413 hrs 18 mins
 🎮 Onimusha: Way of the Sword       🕘 31 hrs 29 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 935 hrs 59 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 937 hrs 32 mins
 🎮 Mafia: Definitive Edition        🕘 12 hrs 39 mins
 🎮 Outlast                          🕘 9 hrs 52 mins
 ```
