@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ```text
 🎮 Baldur's Gate 3                  🕘 462 hrs 51 mins
 🎮 Mafia: Definitive Edition        🕘 12 hrs 39 mins
-🎮 Outlast                          🕘 9 hrs 52 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 937 hrs 32 mins
+🎮 Outlast                          🕘 9 hrs 52 mins
 💻 Wallpaper Engine                 🕘 67 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
