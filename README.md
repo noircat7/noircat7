@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ```text
 🎮 Baldur's Gate 3                  🕘 465 hrs 5 mins
 🎮 Stray                            🕘 8 hrs 53 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 937 hrs 32 mins
 🎮 Hollow Knight: Silksong          🕘 7 hrs 12 mins
 💻 Wallpaper Engine                 🕘 67 hrs 50 mins
+🎮 The Witcher 3: Wild Hunt — Remastered 🕘 76 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
