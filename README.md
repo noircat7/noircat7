@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Baldur's Gate 3                  🕘 465 hrs 5 mins
+🎮 Baldur's Gate 3                  🕘 465 hrs 10 mins
 🎮 Stray                            🕘 8 hrs 53 mins
 🎮 Hollow Knight: Silksong          🕘 7 hrs 12 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 938 hrs 26 mins
 💻 Wallpaper Engine                 🕘 68 hrs 1 mins
-🎮 The Witcher 3: Wild Hunt — Remastered 🕘 76 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
