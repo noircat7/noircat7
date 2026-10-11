@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 Stray                            🕘 8 hrs 53 mins
 🎮 Hollow Knight: Silksong          🕘 7 hrs 12 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 938 hrs 26 mins
-💻 Wallpaper Engine                 🕘 68 hrs 1 mins
+💻 Wallpaper Engine                 🕘 68 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
