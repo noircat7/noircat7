@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Baldur's Gate 3                  🕘 528 hrs 50 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 941 hrs 40 mins
+🎮 The Witcher 3: Wild Hunt — Remastered 🕘 78 hrs 45 mins
 🎮 The Outlast Trials               🕘 1 hrs 56 mins
 💻 Wallpaper Engine                 🕘 68 hrs 10 mins
 ```
