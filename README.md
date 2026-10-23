@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Baldur's Gate 3                  🕘 531 hrs 42 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 943 hrs 56 mins
-🎮 The Witcher 3: Wild Hunt — Remastered 🕘 78 hrs 45 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 944 hrs 40 mins
+🎮 The Witcher 3: Wild Hunt — Remastered 🕘 80 hrs 37 mins
 🎮 The Outlast Trials               🕘 1 hrs 56 mins
 💻 Wallpaper Engine                 🕘 68 hrs 10 mins
 ```
