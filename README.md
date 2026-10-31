@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Baldur's Gate 3                  🕘 531 hrs 42 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 947 hrs 9 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 948 hrs 0 mins
+🎮 Phantom Blade Zero               🕘 6 hrs 30 mins
 🎮 The Witcher 3: Wild Hunt — Remastered 🕘 81 hrs 1 mins
-🎮 Phantom Blade Zero               🕘 2 hrs 27 mins
 💻 Wallpaper Engine                 🕘 68 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
