@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Phantom Blade Zero               🕘 17 hrs 34 mins
+🎮 Phantom Blade Zero               🕘 18 hrs 3 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 949 hrs 17 mins
 🎮 Baldur's Gate 3                  🕘 531 hrs 42 mins
 🎮 The Witcher 3: Wild Hunt — Remastered 🕘 81 hrs 1 mins
