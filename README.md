@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 🎮 Phantom Blade Zero               🕘 18 hrs 3 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 949 hrs 17 mins
 🎮 The Witcher 3: Wild Hunt — Remastered 🕘 81 hrs 1 mins
-🎮 Baldur's Gate 3                  🕘 531 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
