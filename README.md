@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Phantom Blade Zero               🕘 18 hrs 3 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 953 hrs 36 mins
 🎮 Baldur's Gate 3                  🕘 537 hrs 13 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 952 hrs 28 mins
 🎮 Apex Legends                     🕘 629 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
