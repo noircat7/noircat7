@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Baldur's Gate 3                  🕘 544 hrs 23 mins
+🎮 Baldur's Gate 3                  🕘 546 hrs 6 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 954 hrs 48 mins
 🎮 Apex Legends                     🕘 629 hrs 44 mins
 ```
