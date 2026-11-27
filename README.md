@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Baldur's Gate 3                  🕘 562 hrs 30 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 961 hrs 1 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 962 hrs 30 mins
 🎮 OCTOPATH TRAVELER                🕘 1 hrs 32 mins
 🎮 Onimusha: Way of the Sword       🕘 32 hrs 28 mins
 🎮 Divinity: Original Sin Enhanced Edition 🕘 2 hrs 58 mins
